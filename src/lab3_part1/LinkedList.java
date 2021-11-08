@@ -1,5 +1,6 @@
 package lab3_part1; 
 
+
 public class LinkedList {
 
     private Element element;
