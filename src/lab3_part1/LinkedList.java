@@ -1,4 +1,5 @@
-package lab3_part1;
+package lab3_part1; 
+
 
 public class LinkedList {
 
